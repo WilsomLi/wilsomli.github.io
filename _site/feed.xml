@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WilsomLi Blog</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
+    <description>游戏开发者 | 李家恒，Web &amp; Mobile Gamer，Game Developer Engineer，GAD | 这里是 @wilsomli 的个人博客，与你一起融进游戏世界。</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 16 Nov 2016 00:44:07 +0800</pubDate>
-    <lastBuildDate>Wed, 16 Nov 2016 00:44:07 +0800</lastBuildDate>
+    <pubDate>Wed, 16 Nov 2016 15:01:08 +0000</pubDate>
+    <lastBuildDate>Wed, 16 Nov 2016 15:01:08 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -73,9 +72,9 @@
 &lt;p&gt;本文译自 &lt;a href=&quot;http://benmccormick.org/2015/09/14/es5-es6-es2016-es-next-whats-going-on-with-javascript-versioning/&quot;&gt;ES5, ES6, ES2016, ES.Next: What’s going on with JavaScript versioning?&lt;/a&gt; &lt;br /&gt;
 译者 &lt;a href=&quot;http://weibo.com/huxpro&quot;&gt;黄玄&lt;/a&gt;，首次发布于 &lt;a href=&quot;http://huangxuan.me&quot;&gt;Hux Blog&lt;/a&gt;，转载请保留以上链接&lt;/p&gt;
 </description>
-        <pubDate>Tue, 22 Sep 2015 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2015/09/22/js-version.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/09/22/js-version.html</guid>
+        <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2015/09/22/js-version/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/09/22/js-version/</guid>
         
         <category>前端开发</category>
         
@@ -120,9 +119,9 @@
 
 &lt;p&gt;&lt;a href=&quot;http://lab.hakim.se/reveal-js&quot;&gt;Reveal.js&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 09 Jul 2015 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2015/07/09/js-module-7day.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/07/09/js-module-7day.html</guid>
+        <pubDate>Thu, 09 Jul 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2015/07/09/js-module-7day/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/07/09/js-module-7day/</guid>
         
         <category>前端开发</category>
         
@@ -447,9 +446,9 @@
   &lt;p&gt;working…&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-        <pubDate>Mon, 25 May 2015 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2015/05/25/js-module-loader.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/05/25/js-module-loader.html</guid>
+        <pubDate>Mon, 25 May 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2015/05/25/js-module-loader/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/05/25/js-module-loader/</guid>
         
         <category>前端开发</category>
         
@@ -735,9 +734,9 @@ Android’s source code is released by Google under open source licenses, althou
 
 &lt;p&gt;For Detail, Chromium OS based on &lt;a href=&quot;http://en.wikipedia.org/wiki/Gentoo_Linux&quot;&gt;Gentoo Linux&lt;/a&gt;, emm…&lt;/p&gt;
 </description>
-        <pubDate>Tue, 14 Apr 2015 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2015/04/14/unix-linux-note.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/04/14/unix-linux-note.html</guid>
+        <pubDate>Tue, 14 Apr 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2015/04/14/unix-linux-note/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/04/14/unix-linux-note/</guid>
         
         <category>OS</category>
         
@@ -817,9 +816,9 @@ Android’s source code is released by Google under open source licenses, althou
 
 &lt;p&gt;—— Hux 后记于 2015.10&lt;/p&gt;
 </description>
-        <pubDate>Thu, 29 Jan 2015 20:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2015/01/29/hello-2015.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/01/29/hello-2015.html</guid>
+        <pubDate>Thu, 29 Jan 2015 12:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2015/01/29/hello-2015/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/01/29/hello-2015/</guid>
         
         <category>生活</category>
         
